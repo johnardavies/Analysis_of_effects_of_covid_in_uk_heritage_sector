@@ -1,4 +1,9 @@
-This repo analyses survey data on the effects of Covid19 on Heritage organisations by Historic England
-The data was available at https://historicengland.org.uk/coronavirus/heritage-sector/survey/
-The csv in the repo is a conversion of the original workbook removing commas
-The jupyter notebook is run off that
+This repo analyses survey data from Historic England on the effects of Covid19 on Heritage organisations
+
+- Covid_19_heritage.csv	Is the data file. It is a conversion of the original excel workbook to csv after removing commas
+The original data came from https://historicengland.org.uk/coronavirus/heritage-sector/survey/
+
+- Covid_heritage.ipynb is the jupyter notebook that is run off that
+
+
+Contact john.davies at nesta.org.uk
